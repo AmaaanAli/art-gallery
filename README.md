@@ -10,7 +10,9 @@
 ![Mobile View](Art-Gallery-phone.jpeg)
 
 ## Web View
-https://gallery-art-reactjs.netlify.app/
+
+Netlify - https://gallery-art-reactjs.netlify.app/
+
 ![Web View](Art-Gallery-Web.png)
 
 ---
