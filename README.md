@@ -1,19 +1,3 @@
-# Digital Art Gallery
-
-## Overview
-The **Digital Art Gallery** is a React-based web application that showcases a collection of artworks in an elegant and interactive format. The application features a sidebar for navigation, a gallery section for highlights, and a grid of artworks to explore. It leverages reusable components and modern UI design principles.
-
----
-
-## Features
-- **Dynamic Sidebar Navigation**: Easy navigation to various sections such as Home, Explore, and Featured.
-- **Interactive Buttons**: Custom buttons with icons for actions like contacting an expert, viewing user profiles, and notifications.
-- **Gallery Section**: Highlighted section showcasing the purpose of the gallery.
-- **Artwork Grid**: A responsive grid layout displaying images of artworks.
-- **Minimalistic Design**: Modern and clean UI with Tailwind CSS.
-
----
-
 ## Tech Stack
 - **Frontend**: React.js
 - **Styling**: Tailwind CSS
