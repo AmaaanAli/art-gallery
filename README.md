@@ -8,7 +8,9 @@
 ## Screenshots
 
 ![Mobile View](Art-Gallery-phone.jpeg)
+![Web View](Art-Gallery-Web.png)
 
+---
 
 ## Installation
 
@@ -88,12 +90,6 @@ A responsive grid to display artwork images in a neat layout.
 - **Adding New Artworks**: Place new images in `src/assets/images/` and update the `ArtworkGrid.jsx` file.
 - **Adding Navigation Links**: Update the `Sidebar.jsx` file with new `NavItem` components.
 - **Changing Text**: Modify text content in `GallerySection.jsx` or other relevant components.
-
-
----
-
-## Contributing
-Feel free to fork the repository and submit pull requests for new features or improvements. Make sure to follow the coding standards and test your changes before submitting.
 
 ---
 
