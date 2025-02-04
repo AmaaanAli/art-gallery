@@ -8,6 +8,9 @@
 ## Screenshots
 
 ![Mobile View](Art-Gallery-phone.jpeg)
+
+## Web View
+
 ![Web View](Art-Gallery-Web.png)
 
 ---
@@ -22,7 +25,7 @@ Make sure you have the following installed:
 ### Steps
 1. Clone the repository:
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/AmaaanAli/art-gallery.git
    ```
 2. Navigate to the project directory:
    ```bash
@@ -36,8 +39,7 @@ Make sure you have the following installed:
    ```bash
    npm run dev
    ```
-
-
+   
 ---
 
 ## File Structure
