@@ -5,6 +5,11 @@
 
 ---
 
+## Screenshots
+
+![Mobile View](Art-Gallery-phone.jpeg)
+
+
 ## Installation
 
 ### Prerequisites
